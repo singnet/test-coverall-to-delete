@@ -5,7 +5,7 @@
     "ganache-cli": "6.1.6",
     "singularitynet-platform-contracts": "0.3.0" ,
     "singularitynet-token-contracts": "2.0.1",
-    "truffle": "4.1.13",
+    "truffle": "5.7.9",
     "truffle-contract": "3.0.6",
     "truffle-hdwallet-provider": "0.0.5",
     "command-line-args": "5.0.2"
